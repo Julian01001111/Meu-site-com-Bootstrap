@@ -22,11 +22,11 @@ width: auto;
 #logo{
     align-items: center center;
     height: 70px;
-    width: auto;  
+    width: 200px;  
 }
 
 
 #footer{
-    height: 200px;
+    height: 100px;
     background-color: rgb(231, 225, 218);
 }
