@@ -18,44 +18,39 @@
 
 <body>
   <!--Cabeçalho-->
-  <nav class="navbar navbar-expand-lg navbar-light bg-light">
-    <div class="container-fluid">
-      <img id="logo" src="../img/logo2.jpg" alt="">
-      <a class="navbar-brand" href="../pagina1/index.html">Inicio</a>
-      <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-        <span class="navbar-toggler-icon"></span>
-      </button>
-      <div class="collapse navbar-collapse" id="navbarSupportedContent">
-        <ul class="navbar-nav me-auto mb-2 mb-lg-0">
-          <li class="nav-item">
-            <a class="nav-link active" aria-current="page" href="#">Topo</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" href="../Sobre/sobre.html">Sobre</a>
-          </li>
-
-        </ul>
-        <form class="d-flex">
-          <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search">
-          <button class="btn btn-outline-success" type="submit">Search</button>
-        </form>
+    <nav class="row navbar navbar-expand-lg navbar-light bg-light">
+      <div class="container-fluid">
+        <img id="logo" src="../img/logo2.png" alt="">
+        <a class="navbar-brand" href="../pagina1/index.html">Inicio</a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+          <ul class="navbar-nav me-auto mb-2 mb-lg-0" >
+            <li class="nav-item">
+              <a class="nav-link active" aria-current="page" href="#">Topo</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="../Sobre/sobre.html">Sobre</a>
+            </li>
+  
+          </ul>
+        </div>
       </div>
-    </div>
-  </nav>
-
+    </nav>
   <!--Recebe Carrossel-->
-  <div id="car" class="container-fluid">
+  <div id="car" class="row container-fluid">
     <div id="carouselExampleControls" class="carousel slide" data-bs-ride="carousel">
 
       <div class="carousel-inner" style="height: 400px;">
         <div class="carousel-item h-100 active">
-          <img id="img1" src="../img/logo2.jpg" class="d-block w-100" alt="..." />
+          <img id="car" src="../img/Capa1.jpg" class="d-block w-100" alt="..." />
         </div>
         <div class="carousel-item">
-          <img id="img1" src="../img/carr2.jpeg" class="d-block w-100" alt="..." />
+          <img id="car" src="../img/logo1.jpg" class="d-block w-100" alt="..." />
         </div>
         <div class="carousel-item">
-          <img id="img1" src="../img/carr10.jpg" class="d-block w-100" alt="..." />
+          <img id="car" src="../img/carr8.jpg" class="d-block w-100" alt="..." />
         </div>
       </div>
       <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleControls"
@@ -79,10 +74,11 @@
   Nosso site foi desenvolviddo para facilitar seu contato com os classicos do passado.
   Aqui voce 
 </p>
-  <div>
-      <h3>
-        Sobre a empresa
-      </h3>
+  </div>
+  <div class=" row container fluid col-sm-12" style="justify-content: center;" >
+      <p>
+       Aqui voce fica sabendo mais sobre a nossa empresa.
+      </p>
   </div>
   <footer id="footer" class="container-fluid row col m-auto">
     <div id="sobre" class="col-sm-6">
