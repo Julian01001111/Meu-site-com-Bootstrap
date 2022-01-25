@@ -1,0 +1,32 @@
+
+
+#car{
+    background-color: #ebebeb;
+    width: auto;
+}
+#pagamento{
+    background-color: #ebebeb;
+ 
+    height: 100px;
+}
+#produtos{
+    background-color: #ebebeb;
+    
+
+}
+#img1{
+align-items: center center;
+height: 400px;
+width: auto;
+}
+#logo{
+    align-items: center center;
+    height: 70px;
+    width: auto;  
+}
+
+
+#footer{
+    height: 200px;
+    background-color: rgb(231, 225, 218);
+}
