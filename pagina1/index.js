@@ -1,11 +1,14 @@
+var total = 3;
 
-var venda = document.getElementById("ven");
-
-function estoqueZero() {
-    alert('O carro ja foi vendido.');
+function incrementClick() {
+   if (total>0) updateDisplay(--total);
+    if(total>0)
+    alert("Otima compra")
+    else
+    alert('O ultimo acabou de ser vendido.');
+    if (total==0) 
+    alert("Estoque indisponivel")
 }
-venda.addEventListener('click', estoqueZero);
-
-prompt('Ola')
-
-
+function updateDisplay(val) {
+    document.getElementById("vendeu").innerHTML = val;
+}
