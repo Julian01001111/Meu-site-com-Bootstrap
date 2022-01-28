@@ -11,13 +11,14 @@
    * [Tecnologias](#Tecnologias)
    * [Pré-requisitos](#Pré-requisitos)
    * [Autor](#Autor)
+   * [Link youtube](#Link youtube)
   
 <!---->
 
 
 # Sobre
 
-<p>Este e um site bem simples mas funcional para demostrar o conceito basico da construção de um site com Bootstrap.</p>
+<p>Este é um site bem simples mas funcional para demostrar o conceito básico da construção de um site com Bootstrap.</p>
 
 # Tecnologias
 
@@ -25,7 +26,7 @@
 <p>Bootstrap</p>
 <p>HTML</p>
 <p>CSS</p>
-<p>JavaScript</p>
+<p>Java Script</p>
 
 
 # Pré-requisitos
@@ -42,4 +43,5 @@ Conhecimentos basicos em:
 
 [Juliano Rodrigo](https://www.linkedin.com/in/juliano-rodrigo-88a1a1168/)
 
+#Link youtube
 [Video no youtube](https://youtu.be/XmXK7aKRLf8)
