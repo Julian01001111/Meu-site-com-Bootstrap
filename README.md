@@ -11,7 +11,7 @@
 
 # Sobre
 
-<p>Este e um site bem simples mas funcional para demostrar o conceito basico da construção de um site.</p>
+<p>Este e um site bem simples mas funcional para demostrar o conceito basico da construção de um site com Bootstrap.</p>
 
 # Tecnologias
 
