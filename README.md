@@ -17,11 +17,9 @@
 
 
 # Sobre
-
 <p>Este é um site bem simples mas funcional para demostrar o conceito básico da construção de um site com Bootstrap.</p>
 
 # Tecnologias
-
 <p>Este projeto foi desenvolvido com:</p>
 <p>Bootstrap</p>
 <p>HTML</p>
@@ -40,8 +38,7 @@ Conhecimentos basicos em:
 <p>Java Scrit</p>
 
 # Autor
-
 [Juliano Rodrigo](https://www.linkedin.com/in/juliano-rodrigo-88a1a1168/)
 
-#Link youtube
+# Link youtube
 [Video no youtube](https://youtu.be/XmXK7aKRLf8)
