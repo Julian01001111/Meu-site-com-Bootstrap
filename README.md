@@ -4,7 +4,7 @@
 
 <!---->
    * [Sobre](#Sobre)
-   *[Tecnologias](#Tecnologias)
+   * [Tecnologias](#Tecnologias)
    * [Pré-requisitos](#Pré-requisitos)
    * [Autor](#Autor)
   
