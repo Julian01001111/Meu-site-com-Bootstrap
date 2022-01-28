@@ -11,7 +11,7 @@
    * [Tecnologias](#Tecnologias)
    * [Pré-requisitos](#Pré-requisitos)
    * [Autor](#Autor)
-   * [Link youtube](#Link youtube)
+   * [Link YouTube](#Link YouTube)
   
 <!---->
 
@@ -40,5 +40,5 @@ Conhecimentos basicos em:
 # Autor
 [Juliano Rodrigo](https://www.linkedin.com/in/juliano-rodrigo-88a1a1168/)
 
-# Link youtube
-[Video no youtube](https://youtu.be/XmXK7aKRLf8)
+# Link YouTube
+[Video no YouTube](https://youtu.be/XmXK7aKRLf8)
