@@ -2,12 +2,16 @@
 
 <p align="center"> Criei este projeto para mostrar um site simples e funcional.</p>
 
-<!--
-    * [Sobre](#Sobre)
-   * [Tecnologias](#Tecnologias)
-    * [Pré-requisitos](#Pre requisitos)
+<!---->
+   * [Sobre](#Sobre)
+   *[Tecnologias](#Tecnologias)
+   * [Pré-requisitos](#Pre requisitos)
    * [Autor](#Autor)
--->
+  
+<!---->
+<h1 align="center">
+<img src="./img/Site.PNG" alt="">
+</h1>
 
 # Sobre
 
@@ -23,8 +27,8 @@
 
 
 # Pre requisitos
+Ter instalado [VSCode](https://code.visualstudio.com/) na sua máquina.
 
-<p>Ter instalado [VSCode](https://code.visualstudio.com/) na sua máquina.</p>
 <p>Logica de programação</p>
 <p>Bootstrap</p>
 <p>HTML</p>
