@@ -5,13 +5,11 @@
 <!---->
    * [Sobre](#Sobre)
    *[Tecnologias](#Tecnologias)
-   * [Pré-requisitos](#Pre requisitos)
+   * [Pré-requisitos](#Pré-requisitos)
    * [Autor](#Autor)
   
 <!---->
-<h1 align="center">
-<img src="./img/Site.PNG" alt="">
-</h1>
+
 
 # Sobre
 
@@ -26,7 +24,7 @@
 <p>JavaScript</p>
 
 
-# Pre requisitos
+# Pré-requisitos
 Ter instalado [VSCode](https://code.visualstudio.com/) na sua máquina.
 
 <p>Logica de programação</p>
