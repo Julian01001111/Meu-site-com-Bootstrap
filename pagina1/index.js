@@ -1,7 +1,10 @@
 var total = 3;
+var senha = 0
 
 function incrementClick() {
-
+   while (senha==0) {
+    senha = prompt('Confirme sua senha.')
+}
     if(total>1)
     alert("Otima compra")
 
