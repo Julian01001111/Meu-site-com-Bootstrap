@@ -31,6 +31,7 @@
 # Pré-requisitos
 Ter instalado [VSCode](https://code.visualstudio.com/) na sua máquina.
 
+Conhecimentos basicos em:
 <p>Logica de programação</p>
 <p>Bootstrap</p>
 <p>HTML</p>
@@ -40,3 +41,5 @@ Ter instalado [VSCode](https://code.visualstudio.com/) na sua máquina.
 # Autor
 
 [Juliano Rodrigo](https://www.linkedin.com/in/juliano-rodrigo-88a1a1168/)
+
+[Video no youtube](https://youtu.be/XmXK7aKRLf8)
