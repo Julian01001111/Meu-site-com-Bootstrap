@@ -18,10 +18,9 @@
 
 # Sobre
 <p>
-  <h5>Este é um site bem simples mas funcional para demostrar o conceito básico da construção de um site com Bootstrap.</h5>
-  O site e voltado para venda de veiculos antigos, ele possui varias abas sendo possível navegar por todas elas.
-  Ao clicar em vizulizar voce será redirecionado a uma nova página com uma foto em resolução melhor e poderá assim efetuar a compra do veiculo,
-  na hora da compra será exibido alertas ao usuario de acordo com os acontecidos, sendo otima compra, ultimo em estoque e estoque indisponivel.
+<h4>Este é um site bem simples, mas funcional para demostrar o conceito básico da construção de um site com Bootstrap.</h4>
+O site e voltado para venda de veículos antigos, ele possui várias abas sendo possível navegar por todas elas. Ao clicar em visualizar você será redirecionado a uma nova página com uma foto em resolução melhor e poderá assim efetuar a compra do veículo, na hora da compra será exibido alertas ao usuário de acordo com os acontecidos, sendo ótima compra, ultimo em estoque e estoque indisponível.
+
 </p>
 
 # Tecnologias
